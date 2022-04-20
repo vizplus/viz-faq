@@ -1,48 +1,54 @@
-# FAQ VIZ
+# VIZ FAQ
 
-This selection is mainly for newcomers, it answers questions that you’ll encounter in VIZ at first. For the rest, communication with other VIZ members, app tutorials and independent exploration of the digital social capital ecosystem will help you.
+The given document is addressed mainly to beginners. It answers the questions that may arise while working with VIZ. Communication with other VIZ users, application manuals and independent study of the ecosystem of digital social capital will help you with the remaining aspects of the service.
 
 ***
 
 ### Content:
 
-[General questions](#general-questions)
+[General issues](#general-questions)
 
-- What is correct: VIZ, Viz or viz?
-- How to use social capital?
-- What to do if something goes wrong?
+- How is it correct to write the name of the application - VIZ or viz?
+- How do I use social capital?
+- How should I act if something is not working?
 
 [Accounts and keys](#accounts-and-keys)
 
-- How to create an account?
-- How to create a subaccount?
-- How to give a new account to someone else?
-- How to change account keys?
-- How to recover lost keys?
-- How to buy or sell a pretty account?
-- How to view an account history?
+- How do I create an account?
+- How do I create a subaccount?
+- How do I give a new account to another person as a gift?
+- How do I change my account keys?
+- How do I recover lost keys?
+- How do I buy or sell a custom account?
+- How do I view the history of actions in my own or someone else’s account?
 
 [Digital Social Capital](#digital-social-capital)
 
-- How to reward other VIZ members?
-- How to connect an account to the app?
-- How to increase social capital?
-- How to delegate social capital?
+- How do I reward other VIZ participants?
+- How do I connect my account to the app?
+- How do I increase social capital?
+- How do I delegate social capital?
+
+[Energy](#energy)
+
+- How do I use energy in VIZ?
+- How is energy restored?
+- How is the minimum possible reward determined?
 
 [Viz tokens and cheques](#viz-tokens-and-cheques)
 
-- How to get liquid viz tokens?
-- How to transfer viz tokens from one account to another?
-- How to use cheques?
+- How do I get liquid viz tokens?
+- How do I transfer viz tokens from one account to another?
+- How do I use checks?
 
-[Delegates & DAO Fund](#delegates-dao-fund)
+[Delegates and the DAO Fund](#delegates-dao-fund)
 
-- How to elect delegates to DAO Fund?
-- How to vote for applications for DAO Fund?
+- How do I elect DAO delegates?
+- How do I vote for applications to the DAO Fund?
 
 [Best Practices](#best-practices)
 
-- What is the best and safest way to use VIZ?
+- How is it more convenient and safer to use VIZ?
 
 ## General questions
 
