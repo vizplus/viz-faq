@@ -50,52 +50,54 @@ The given document is addressed mainly to beginners. It answers the questions th
 
 - How is it more convenient and safer to use VIZ?
 
-## General questions
+## General issues
 
-### What is correct: VIZ, Viz or viz?
+### How is it correct to write the name of the application – VIZ or viz?
 
-There is nothing "right" or "official" about VIZ. There are different points of view, which are accepted by majority or minority of participants and services. We in VIZPLUS decided that:
+There are no ‘correct’ or ‘official’ terms in VIZ. There are different points of view that are accepted by participants and services to one degree or another. We at VIZPLUS decided on the following:
 
-- **VIZ** is an ecosystem which means all applications, blockchain, tokens, instructions and everything else related to VIZ;
-- **Viz or "blockchain VIZ"** is just the blockchain, the most important software, the "core" of the ecosystem. We don't usually write its name in Russian;
-- **viz** is a unit of measurement of social capital. A person's height is measured in centimeters, weight in kilos and social capital in viz. We don't like to call viz "coin" or "cryptocurrency" as it doesn't refer to money, but is more like grades, rating points or even airline miles. When we talk about vizes as a means of capital accumulation, we call them "tokens" in analogy to the tokens of other blockchains and blockchain apps.
+- **VIZ** is an ecosystem where all applications, blockchains, tokens, instructions and everything else is related to VIZ;
 
-You can write and speak as you like so that others understand you correctly.
+- **Viz** or the ‘VIZ blockchain’ is just the blockchain part, thus, it is the most important software, or the ‘core’ of the ecosystem.
 
-### How to use social capital?
+- **viz** is a measurement unit of social capital. A person’s height is measured in centimeters, their weight – in kilograms, and social capital – in viz. We do not like to call viz a ‘coin’, ‘cryptocurrency’ or ‘digital currency’, since it does not refer to money, but is more like points, rating points or even airline miles. When we talk about viz as a means of capital accumulation, we call them ‘tokens’ by analogy with the tokens of other blockchains and blockchain-based applications.
 
-You can use social capital (as well as other Viz blockchain features) via apps. These apps help you to reward people, vote, thank and do other things with social capital.
+You can write and pronounce it the way you like, as long as those around you understand you well.
 
-The apps create a *context of using* of social capital, in other words they tell you *why* to use it:
+### How do I use social capital?
 
-- to reward the author of an interesting article on the Internet (click "like" on the website);
-- пvote for the best player at a match by pointing your phone at the QR code on the screen;
-- make choice on a dating site (attract attention with a solid award);
-- to thank for a useful tip in the chat (write "thank you" phrase and bot will turn it into reward)...
+You can use social capital (as well as other functions of the Viz blockchain) through the applications. These apps help you reward people, vote, express gratitude, and do other things with social capital.
 
-The context depends only on the imagination of the app creators. Technically, apps translate your "social" actions with different context into standard blockchain language and conduct the transaction on your behalf.
+Applications create *a context for the use* of social capital, that is, they tell you *why* to use it:
 
-### What to do if something goes wrong?
+- Reward the author of an interesting article on the internet (click ‘like’ on the website);
+- Vote for the best football player of the match by pointing your phone at the QR code on the screen;
+- Make a choice on a dating site (attract attention with a solid reward);
+- Express gratitude for helpful advice in a chat (write a ‘thank you’, which the bot will turn into a reward)...
 
-Newcomers VIZ members sometimes find themselves in a situation where "something didn't work": the reward didn't come, the tokens didn't transfer to another account, the delegation cancellation didn't happen, etc. Why does this happen and what should be done?
+The context is limited only by the imagination of the authors in the applications. Technically, applications translate your ‘social’ actions with different contexts into a standard language of the blockchain and conduct a transaction on your behalf.
 
-Obviously, you should first make sure that you **don't do an impossible operation**, such as delegating 1200 viz if you only have 800 viz available in your capital. Or you are trying to use 5% of energy while you have only 3% of it left.
+### How should I act if something is not working?
 
-In the vast majority of cases, however, the application's refusal to perform a transaction means that the user typed the **private key incorrectly**.
+Novice VIZ participants sometimes find themselves in a situation when ‘something did not work’: a reward did not go through, the tokens were not transferred to another account, a delegation was not canceled, etc. Why is this happening and what is the next step?
 
-Firstly, the key should match the transaction you are trying to do: different types of keys are used for different transactions in the Viz blockchain. This makes life a little more complicated, but makes using Viz much more secure. The right app should tell you which key you need to enter (simple, active or even master). Properly save keys with an appropriate description (sometimes users confuse key levels when saving) and check carefully which key you enter.
+Obviously, first, you should make sure that you are **not trying to carry out an impossible operation**, for example, delegate 1,200 viz, if you have only 800 viz available in your capital. Alternatively, you are trying to use 5% of the energy with a reward, despite the fact that only 3% of it remains.
 
-Secondly, quite often when copying a key from a storage location to an app, users accidentally forget 1-2 characters or on the contrary pick up an extra character at the beginning or at the end (space, comma, etc.). The keys are long, anyone can make a mistake. Make sure you copy the key exactly.
+In the vast majority of cases, the application’s refusal to conduct a transaction means the user **has entered a wrong private key**.
 
-Less frequently the **app is wrong** or the **blockchain node is down** (server the app communicates with to record your transaction), but it's still a possibility that can't be precluded. The right app will tell you what error has occurred and how to avoid it, in such a case follow the instructions. If something is not clear at all, wait a couple of minutes and try again.
+First, the key must correspond to the operation you are trying to perform: different types of keys are used for different transactions in Viz blockchain. This makes life a little more complicated, but it makes using VIZ much safer. The correct application should tell you which key you need to enter (simple, active, or even main/master). Save the keys correctly with the appropriate description (sometimes users confuse the key levels when saving) and carefully check which key you enter.
 
-Finally, the rarest but the most possible variant: you **don’t have enough social capital** to perform the transaction. This happens either with very smal accounts, e.g. with 0.1 viz in capital or with a very heavy load on the blockchain (usually during a spam attack).
+Second, when copying a key from a storage location to an application, users accidentally ‘forget’ 1-2 characters or vice versa, and put in an extra character at the beginning or at the end (space, comma, etc.). The keys are long, anyone can make a mistake. Make sure that you copy the key correctly.
 
-The point is that the Viz blockchain has a speed limit of recording information from users, so when the load is heavy, it queues up transactions that come in for saving. The transactions of the accounts with the biggest capital are executed first, then the ones with less capital, and so on. In addition, if a transaction from the tail of the queue isn’t in the nearest record (block), it is rejected.
+The **application is much less likely to make mistakes** or the **blockchain node is disabled** (the server that the application contacts to record your operation), but still this possibility cannot be excluded. The correct application will tell you the type of error that has occurred and how to avoid it - in this case, follow the instructions. If something completely indescribable happens, wait a couple of minutes and try again.
 
-One more time: a spike in blockchain activity is a rare occurrence. Accounts with at least a few vizes in capital shouldn’t have any problems with recording of transactions.
+Finally, the rarest, but possible option is that you do **not have enough social capital** to conduct a transaction with in the first place. This happens either with very ‘minor’ accounts, for example, with 0.1 viz in the capital, or with a very heavy load on the blockchain (usually during a spam attack).
 
-If you have followed all the recommendations and something is still wrong, contact the creators of the app or chat rooms and more experienced users can help you. For example, there is a group on Telegram for mutual help [VIZ+Help](https://t.me/vizplus_help).
+The fact is that the Viz blockchain has limitations on the speed of recording information from users, therefore, it lines up transactions received for saving in a queue under high load. First, the operations of the accounts with the largest capital are executed, then with the smaller one, etc. At the same time, if a transaction from the tail of the queue did not get into the nearest record (in the block), it is rejected.
+
+Let us repeat the aforementioned: a sharp increase in activity on the blockchain is a rare phenomenon. Accounts with at least several viz in the capital should not have problems with recording transactions.
+
+If you have followed all the recommendations, but ‘something still refuses to work’, contact the developers of the application or refer to the chat rooms, where more experienced users will help you with troubleshooting. For example, there is a group for mutual support in Telegram: [VIZ+Help](https://t.me/vizplus_help).
 
 ## Accounts and keys
 
