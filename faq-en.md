@@ -274,24 +274,24 @@ You can change your decision at any time until the end of the voting. Please not
 
 ## Best Practices
 
-### What is the best and safest way to use VIZ?
+### How is it more convenient and safer to use VIZ?
 
-**Separate keys**. The key system in VIZ greatly increases the security of using your account compared to the usual "login + password" system.
+**Separate the keys**. The system of keys in VIZ significantly increases the security of using the account compared to the usual ‘login + password’ system.
 
-Of course, keeping three keys that you can't remember is more difficult than entering `12345asd` password. But in the case of a leak from a site or an app regular keys (which are used to make awards), you lose virtually nothing. Even if the active keys are leaked, your loss is minimal, especially if you use subaccounts from the following advice, and don’t keep any liquid vizes in your wallet.
+Of course, storing three keys that cannot be remembered is more difficult than entering memorized password 12345asd. But if there is a leak from some site or from an application of ordinary keys (with which rewards are made), you will not lose anything. And even if the active keys leak, the losses will be minimal, especially if you use subaccounts from the next board and do not store liquid viz in your wallet.
 
-**Use subaccounts and delegation**. On the one hand, VIZ is convenient because the same account can be used in all applications, accumulating social capital on it and rewarding other participants. On the other hand, it isn’t very safe: the app could be fraudulent or hacked by hackers, leading to trouble with the account.
+**Use subaccounts and delegation**. On the one hand, VIZ is convenient, because the same account can be used in all applications, accumulating social capital on it and rewarding other participants. On the other hand, it is not very secure, since the application may turn out to be fraudulent or be hacked, which will lead to trouble with the account.
 
-A good way to increase the security of using VIZ is to have one "main" account with your social capital and one or more subaccounts for different purposes and individual apps.
+A fine way to increase the security of using a VIZ is to have one ‘main’ account with your social capital and one or more subaccounts for different purposes and separate applications.
 
-For example, your main account is `johnnydepp`. You have bought 12500 vizes and put them into the social capital of this account. Now you can create a subaccount `twitter.johnnydepp` and delegate 2400 views to it, a subaccount `telegram.johnnydepp` and delegate 5800 views to it, and a subaccount `iam.johnnydepp` and delegate the rest 4300 views to it. You connect the first two accounts to their respective social gateways, and use the latter for all other tasks. The main account virtually securely holds your social capital and, if you wish, your liquid vizes in your wallet.
+For example, your main *johnnydepp* account. You bought 12,500 viz and put them into the social capital of this account. Now you can create a *twitter.johnnydepp* subaccount and delegate 2,400 viz there, a *telegram.johnnydepp* subaccount and delegate 5,800 viz there, as well as the *iam.johnnydepp* subaccount and delegate the remaining 4,300 viz to it. You connect the first two accounts to the corresponding social gateways, and use the last one for all other tasks. On the main account - almost completely safe - lies your social capital and, if desired, liquid viz in your wallet.
 
-Even if you lose or compromise the keys to a sub-account, right down to the master key, nothing will happen: you will simply revoke the delegation and create a new subaccount.
+Even if you lose or compromise the keys to some subaccount, up to the master key, nothing terrible happens: you will simply revoke the delegation and create a new subaccount.
 
-Rewards will accrue in subaccounts, which can be slowly transferred to the main account, or retained to build up your social capital on Twitter and Telegram. You'll only log into your main account safe through the most trusted app, and even rarely.
+Rewards will accumulate on subaccounts. They can be gradually transferred to the main account or left to increase your social capital on Twitter and Telegram. At the same time, you will log in to the main safe account only through the most trusted application, quite rarely.
 
-**Try to use local apps**. Some apps in VIZ know how to work directly with the blockchain without accessing their own server. This is safer and more convenient because there is no middleman, who could be a crook, or his servers could be hacked, or could go offline at the most inopportune moment.
+**Try to use local applications**. Some VIZ applications are able to work directly with the blockchain, without accessing their own server. This is safer and more convenient, since an intermediary disappears from the chain, who may be a fraudster, or their servers will be hacked, or they may disconnect at the most inopportune moment.
 
-On the other hand, without a server it is unlikely to be possible to build an advanced app with complex features. In some cases, the same application can be presented in two versions - a "basic" local version and an "advanced" server version (as a website or mobile app). It's up to you which version you choose - depending on what you want to do with the app.
+On the other hand, without a server, it is unlikely to be possible to build a developed application with complex functions. In some cases, the same application can be presented in two versions - ‘basic’ local and ‘advanced’ server (in the form of a website or mobile application). It is up to you which option to choose depending on what you want to do with this application.
 
-For example, [My account](https://my.viz.plus) of a VIZ member works both as a website and as a local web page which you should download to your computer and open in your browser. The local version will work even if the server goes down completely because it doesn’t communicate with it, but directly with the blockchain.
+For example, [Personal account](https://my.viz.plus) works both as a website and as a local web page, which you need to download to your computer and open in a browser. The local version will work even if the server is completely disconnected, because it does not communicate with it, but it does directly with the blockchain.
