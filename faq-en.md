@@ -101,69 +101,69 @@ If you have followed all the recommendations, but ‘something still refuses to 
 
 ## Accounts and keys
 
-### How to create an account?
+### How do I create an account?
 
-The operation of creating an account in viz requires the use of a small amount of social capital or viz tokens. These assets are not spent but are transferred to the new account and frozen on it for a period of time.
+The operation of creating an account in VIZ requires the use of a small amount of social capital or viz tokens. These funds are not spent, but transferred to a new account and frozen on it for a while.
 
-The amounts are set by the delegates and can be rarely changed. Now they are **at least 10 viz by delegating capital or at least 1 viz by transfer from wallet**. So, to create a new account, you should already have an account with a small amount of viz or a cheque for the required amount.
+The amounts are set by the delegates and may change occasionally. They amount to at **least 10 viz for delegating capital or at least 1 viz when transferring from a wallet**. Therefore, to create a new account, you must already have an account with a small number of viz or a check for the required amount.
 
-However, there are kind people in the VIZ ecosystem who use their resources to help newcomers to create accounts. For example, VIZPLUS has this service: [start.viz.plus](https://start.viz.plus). In other words, **you can create an account for free** (at someone else's expense) if it’s necessary, but you shouldn't misuse it as well as any help.
+However, there are helpful people in the VIZ ecosystem who use their resources to help newcomers create accounts. For example, VIZPLUS has such a service: [start.viz.plus](https://start.viz.plus). Simply put, if necessary, you can create an account for free (at someone else’s expense), but you should not abuse this, as well as any help.
 
-**At your own expense**, you can create accounts in apps that allow you to do so. This feature is available, for example, in My Account [my.viz.plus](https://my.viz.plus), the social telegram bot and other apps.
+You can create accounts in applications that provide the given opportunity **at your own expense**. This function is available, for example, in Personal Account [my.viz.plus](https://my.viz.plus), in the social Telegram bot and in other applications.
 
-To create a new account using your existing account’s expense, you need to sign in to one of the appropriate apps, enter the name of your new account in correct section, choose a payment method (from capital or from your wallet) and click "Create" or a similar button. Now the app checks if there is an account with the same name, if you have enough assets. If everything is OK, it will proceed with the operation of creating a new account. You'll receive the keys to your new account, which you'll need to keep in a few safe places.
+To create a new account using the funds of an existing one, you need to log into one of the appropriate applications, enter the name of the new account in the appropriate section, select the payment method (from the capital or from the wallet) and click ‘Create’ or similar. At this point, the application will check if there is no account with the same name, whether you have enough funds, and if everything is in order, it will perform the operation of creating a new account. You will receive the keys of the new account, which must be saved in several safe places.
 
-You may also create an account and **pay the required amount in cheque**. The scheme is the same: use an app that provides this service, enter the name of new account and the secret part of the cheque. If everything's OK, you’ll get the keys.
+You can also create an account by **depositing the required amount by check**. The sequence is the same: you use an application that provides such a service, enter the name of the future account and the secret part of the check - and if everything is right, you get the keys.
 
-Finally, there is a slightly more complicated way **using a special "anonymous" account**. First, you have to create a key (public and private parts) and transfer the necessary amount to "anonymous" by writing `account:key` (without spaces) in the comment, where `account` is the name of new account and `key` is the **public part** of the key. The transfer can be made from anywhere, e.g. exchange or stocks, which makes the new account virtually anonymous. On the other hand, with services like [start.viz.plus](https://start.viz.plus), where new accounts are initially completely anonymous, this option doesn’t make much sense.
+Finally, there is a slightly more complicated way - **using a special anonymous account**. First, you have to generate a key (public and private parts), and then transfer the necessary amount to an anonymous user by writing an account in the comments. Include the key (without spaces), where the account is the name of the new account, and the key is the **public** part of the key. The transfer can be made from anywhere, for example, from an exchange or from an exchanger, which makes the new account almost anonymous. On the other hand, if there are services like [start.viz.plus](https://start.viz.plus), where new accounts are initially completely anonymous, this option does not make much sense.
 
-### How to create a subaccount?
+### How do I create a subaccount?
 
-A subaccount can only be created if you use the resources and sign the account or a subaccount from the previous level. For example, if you have an account `primer`, you can create subaccounts `second.primer`, `new.primer` etc. However, the next level subaccount `exactly.new.primer` can only be created by using the active key from `new.primer`. The key from `primer` won’t help anything in this case.
+A subaccount can only be created when using resources and signing an account or subaccount of the previous level. For example, if you have a *primer* account, you can create several subaccounts like *second.primer*, *new.primer*, etc. However, the next-level *completely.new.primer* subaccount can only be created using an active key from *new.primer*. The key from the *primer* account will not help in this case.
 
-The cost of creating a subaccount is the same as for an account.
+The cost of creating a subaccount is the same as with a regular account.
 
-The app that you use to create a subaccount will ask for the active key from the previous account level (or use it in default, if you entered it when you logged in).
+The application through which you create a subaccount will definitely request an active key from the previous level account (or use it silently if you entered it during login).
 
-Otherwise, everything is simple: check that you have enough assets, enter the name of the subaccount and the amount of tokens you want to transfer or delegate to it, and click "Create".
+Otherwise, everything is easy – just check whether you have enough funds, enter the name of the subaccount and the amount of tokens to be transferred or delegated and click the ‘Create’ button.
 
-### How to give a new account to someone else?
+### How do I give a new account to another person as a gift?
 
-If you want to give an account with a specific name, **create it yourself** and give the person the master key for the new account, reminding him/her to reset the keys and save the new ones so you can't use his/her account. You can't reset keys until at least an hour after the account is created or after a previous reset.
+If you want to give away an account with a specific name, **create it yourself** and give the person the master key to the new account, reminding them to reset the keys and save the new ones allowing you not to use this account. Keys can be reset no earlier than an hour after account creation or the previous reset.
 
-If you prefer to let the person choose the name of the new account, **give him/her a cheque** for any amount from 1 viz or more. In this case, the cheque acts as an invite. The person will create an account at [start.viz.plus](https://start.viz.plus) by entering the secret part of the cheque at the appropriate step. The whole amount of the cheque will transfer to the social capital of the new account.
+If you prefer the name of the new account to be chosen by the recipient of the gift, **give them a check** for any amount from 1 viz or more. In this case, the receipt works as an invite. The recipient will create an account on [start.viz.plus](https://start.viz.plus) by entering the secret part of the receipt at the appropriate step. The entire amount of the check will be transferred to the social capital of the new account.
 
-### How to change account keys?
+### How do I change my account keys?
 
-The easiest way to change the keys is to reset them, i.e. using one button in the app you have to renounce all your old keys and get new ones. This requires you to enter a master key.
+The easiest way to change the keys is to ‘reset’ them. Just refuse to use all the old keys with one click of a button in the application and get a set of new ones. To do this, you need to enter the master key.
 
-If you want to change only one key, go to Accounts - Account Accesses in My Account [my.viz.plus](https://my.viz.plus), find the access you need, generate a new one (there is a special button for this), add it, write it in several places and then delete the old key. You’ll also need to enter a master key for this operation.
+If you want to change only one key, go to the Accounts - Account Access section in [my.viz.plus](https://my.viz.plus), find the access you need, generate a new one (there is a special button for this), add it, write it down in several places, and then delete the old key. You will also need to enter the master key to perform this operation.
 
-###How to recover lost keys?
+### How do I recover lost keys?
 
-If you **lost your master key**, you can’t recover it or get a new one. It’s also impossible to change other keys in this case (but you can use them). If you lose your master key (and keep your active key) we strongly recommend you to create a new account and add all your vizes to it, and simply forget about the old one. If you lose all your keys, you'll have to accept this life lesson.
+If you have **lost the master key**, it is impossible to restore it or get a new one. Also, in this case, it is impossible to change other keys (but you can still use them). If you lose the master key (and keep the active one), we strongly recommend creating a new account and withdrawing all viz to it, and just forget about the old one. If you lose all the keys, you have to accept this hard lesson for a lifetime.
 
-If your **master key was stolen** and changed, but you still have your old one, you can try to regain access to your account through a special and very complicated procedure. You'll have to find the owner of the account you used to create your account and ask him/her to perform a special access recovery transaction. Unfortunately, VIZPLUS doesn’t provide this service for accounts created via [start.viz.plus](https://start.viz.plus).
+If your **master key was stolen** and changed, but you still have the old one, you can try to restore access to your account through a special and very complicated procedure. To do this, you will have to find the account owner with whom you created your account and ask them to conduct a special access restoration transaction. Unfortunately, VIZPLUS does not provide such a service for accounts created through [start.viz.plus](https://start.viz.plus).
 
-If **less significant keys are lost**, reset them as described above and save the new keys in a more secure place. 
+If **less significant keys are lost**, then reset them as described above and save the new keys in a more secure place. 
 
-### How to buy or sell a pretty account?
+### How do I buy or sell a custom account?
 
-VIZ has a unique feature: an account marketplace built right into the blockchain. You can put any account or subaccount up for sale or buy one you like with a couple of clicks using the corresponding app. Payment is in vizes, of course. On [my.viz.plus](https://my.viz.plus) you’ll find a dedicated section.
+The VIZ has a unique feature built directly into the blockchain. With the help of the corresponding application, you can put up any of your account or subaccount for sale or buy the one you like in a couple of clicks. Payment, of course, is done using viz. There is a corresponding section on the [my.viz.plus](https://my.viz.plus) website.
 
-Putting an account up for sale costs a small amount in viz, this’s done to protect the blockchain from spam bids. In addition, to prevent attackers from quickly selling a stolen account, it’ll only be available for purchase 7 days after being put up for sale.
+Putting up an account for sale costs a small amount in viz. This is done to protect the blockchain from spam attacks. In addition, it will be possible to buy it only 7 days after it is put up for sale to prevent attackers from quickly selling the stolen account.
 
-Also, the owners of pretty accounts can allow anyone to create any subaccounts for a donation. This is similar to the Internet domain registration: for example, you can create any (free) subaccount for `com` or `blog` account and so on. The owner of the primary account, however, won’t be able to do anything with the new subaccount, because he doesn't know keys.
+Also, the owners of ‘custom’ accounts can give everyone the opportunity to create any subaccounts for a fee. This is similar to registering a domain on the internet. For example, you can create any (unoccupied) subaccount for a com or blog account, etc. At the same time, the owner of the main account will not be able to do anything with this subaccount, since they will not know its access keys.
 
-### How to view an account history?
+### How do I view the history of actions in my own or someone else’s account?
 
-On [info.viz.plus/accounts](https://info.viz.plus/accounts) you can find information about accounts and subaccounts created by VIZ members. If you know the name of the account you are interested in, start typing it in the search box on the page, all matching accounts will immediately appear below. When you click on the name, the account page will open with all its details and history.
+On [info.viz.plus/accounts](https://info.viz.plus/accounts) page, you can find information on accounts and subaccounts created by VIZ participants. If you know the name of the account you are interested in, start typing it in the search bar on the page, all suitable accounts will immediately appear in a dropdown list below. Clicking on the name opens the account page with full information and transaction history.
 
-There you can also find various sorted lists of accounts.
+You can also see various sorted lists of accounts in the dropdown.
 
-Not all accounts and transactions are displayed on [info.viz.plus/accounts](https://info.viz.plus/accounts) as the blockchain is periodically raided by spammers who create a lot of meaningless transactions that are removed from the site.
+Not all accounts and transactions are represented on [info.viz.plus/accounts](https://info.viz.plus/accounts), as the blockchain is periodically raided by spammers who create a lot of meaningless operations that are deleted from the site.
 
-All transactions in raw form, without filtering, are presented in the [VIZ-API](https://api.dpos.space/viz/api/account_history/get_account_history) service. Specify the account name, the number in order of last transaction you need, and the amount of earlier transactions to display. A little trick: if you want to see just the last 20 transactions, and don't know the number of the most recent one, enter -1 instead.
+All operations in ‘raw’ format, without any filtering, are presented in [VIZ-API](https://api.dpos.space/viz/api/account_history/get_account_history) service. Specify the account name, the number in order of the last transaction you are interested in, and the number of earlier transactions to display on the screen. A little trick: if you just want to see the last 20 transactions, and you do not know the number of the most recent one, enter -1 instead.
 
 ## Digital Social Capital
 
