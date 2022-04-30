@@ -167,89 +167,110 @@ All operations in ‘raw’ format, without any filtering, are presented in [VIZ
 
 ## Digital Social Capital
 
-### How to reward other VIZ members?
+### How do I reward other VIZ participants?
 
-The main way to reward other people in VIZ is by using appropriate apps. For example, the "social" bot in Telegram allows you to reward participants in discussions in groups where it is switched on. To do this, just start a reply to someone's comment with a "+" sign (from one to five, the size of the reward depends on this), and the author of the comment will receive a reward, i.e. increase his or her social capital. In Telegram channels with the same bot, a button appears below the posts to reward the author.
+The main way to reward other participants in VIZ is to use the appropriate applications. For example, a ‘social’ bot in Telegram allows you to reward discussion participants in groups where it is connected. To do this, it is enough to start responding to someone’s comment with a ‘+’ sign (from one to five, the amount of the reward depends on this), and the author of the comment will receive a reaward, that is, increase the social capital. A button appears under posts in the Telegram channel with the bot, allowing you to reward the authors.
 
-On the social network [Readdle.Me](https://readdle.me/), an award button is onboarded directly in pages with posts. 
+In the [Readdle.Me](https://readdle.me/) social network, the button for awarding is built right into the pages with posts.
 
-A special plugin for Chrome([link](https://chrome.google.com/webstore/detail/vizonator/iehoehfkanaobnbldjfjfabbpaiiojnp)) and Firefox ([link](https://addons.mozilla.org/ru/firefox/addon/vizonator/)) adds its reward button to pages and posts on Twitter, YouTube and some other sites, as if it was supposed to be there.
+A special Vizonator plugin for Chrome ([link](https://chrome.google.com/webstore/detail/vizonator/iehoehfkanaobnbldjfjfabbpaiiojnp)) and Firefox ([link](https://addons.mozilla.org/ru/firefox/addon/vizonator/)) browsers adds its own reward button to pages and messages on Twitter, YouTube, and some other sites very natively, as if it has always been there.
 
-A list of applications can be seen on the homepage of [viz.plus](https://viz.plus). Gradually, many services on the Internet and in real life will be framed by apps (stand-alone or universal) for awards in VIZ.
+The list of applications can be viewed on the main page [viz.plus](https://viz.plus). Gradually, many services with applications (separate or universal) for VIZ rewards will be added on the internet and will be incorporated into everyday life.
 
-The second way to reward someone is to do it directly, by the name of the recipient account. To do this, in My Account [my.viz.plus](https://my.viz.plus) find the page to reward, enter the name of the account being rewarded in the appropriate field and select the percentage of energy used. If you want, you can add a comment to the recipient, to explain why you're giving the reward. Remember that your energy usage is only 20% per day, so be careful.
+The second way to reward someone is to do it directly by the name of the recipient account. To do this, in Personal Account [my.viz.plus](https://my.viz.plus), find the page for rewarding, enter the name of the awarded account in the appropriate field and select the percentage of energy used. If desired, you can add a comment to the recipient - for which you reward one.
 
-### How to connect an account to the app?
+### How do I connect my account to the app?
 
-There are two ways to connect an account to any app in VIZ. The first is **transferring to the app the necessary private key** (simple or active) from your account. The second is **granting the app the right to act on behalf of your account** without transferring a key. When you connect, the app will ask you for permission to act in one or another way.
+There are two ways to connect an account to any VIZ application. The first is to **transfer to the application the private key (simple or active) required for its operation** from your account. The second is by **granting the application the right to act on behalf of your account** without transferring the key. When you connect, the application will ask you for permission with one method or the other.
 
-Tips about how to keep yourself as safe as possible when using apps in VIZ, you can find in the Best Practices section on this page below.
+For tips on how to protect yourself as much as possible when working with VIZ applications, read the ‘Best Practices’ section on this page below.
 
-### How to increase social capital?
+### How do I increase social capital?
 
-Your digital social capital increases when other people reward you in gratitude for something. So, the most obvious and correct way to increase your social capital is to **provide other people with benefit or pleasure**.
+Your digital social capital increases when other people reward you in gratitude for something. Therefore, the most obvious and correct way to increase social capital is to give **benefits or simple pleasures to other people**.
 
-A simpler and quicker option is to **purchase some viz tokens** and put them into capital. There isn’t and can’t be a single seller of tokens in VIZ. The system is decentralised, so participants sell and buy viz from each other at a negotiated price.
+A simpler and faster option is to **buy** a certain number of viz tokens and invest them into capital. There is not and cannot be a single token seller in VIZ. The system is decentralized, so participants sell and buy viz from each other at a negotiable price.
 
-The sale and purchase of vizes is offered in some apps, as well as in crypto-exchanges (including money) and crypto-stocks. There are also "shops" where you can quickly and easily buy viz-cheques. In addition, it’s always possible to negotiate a direct deal with another participant in popular VIZ chat rooms. You’ll find links to many of the relevant resources on our homepage.
+The sale and purchase of VIZ is offered in some applications, as well as in crypto-exchangers (including ones for ordinary money) and on crypto-exchanges. There are also ‘shops’ where you can quickly and easily buy a viz check. In addition, one can always negotiate a direct deal with another participant in popular VIZ chat rooms. Links to many relevant resources can be found on the main page of our website.
 
-Social capital can also be rented. In this case you pay another VIZ member some money and get the agreed amount of capital by delegation for a certain period of time.
+Social capital can also be rented. In this case, you pay another VIZ participant a little money and receive an agreed amount of capital for a certain period through delegation.
 
-### How to delegate social capital?
+### How do I delegate social capital?
 
-Social capital can be delegated temporarily (until you withdraw it) to another account. The recipient only uses it, but can’t withdraw it into tokens, steal it, sell it or give it to someone else. This function is called "delegating" social capital.
+Social capital can be transferred for a while (until revoked) to another account. At the same time, the recipient only uses it, but cannot withdraw it into tokens, steal it, sell or transfer it to someone else. This function is called ‘delegation’ of social capital.
 
-The easiest way to delegate social capital is through an app, such as My Account [my.viz.plus](https://my.viz.plus), where it can done with a couple of clicks in the relevant section. Other apps may also offer this option. Be careful and **check** who is asking you to delegate capital and why. Nothing bad will happen anyway, but if scammers use your capital for something illegal, it will be a shame.
+The easiest way to delegate social capital is through an application, for example, Personal Account [my.viz.plus](https://my.viz.plus), where it is done with a couple of clicks in the appropriate section. Other apps may also offer this feature. Be careful and **check** who is asking you to delegate capital and why. Nothing terrible will happen in any case, but if some scammers use your capital for something bad, it will be a shame.
 
-To withdraw delegated capital, contact the same app or any other app you trust. Some apps may not have a separate "revoke" button, in which case witness to the same account 0 viz. The withdrawn capital will be deducted from the recipient's capital instantly, but will revert back to you after 24 hours.
+To revoke the delegated capital, contact the same application or any other that you trust. Some applications may not have a separate ‘revoke’ button, in this case delegate 0 viz to the same account. The withdrawn capital will be deducted from the recipient’s capital instantly, but it will be returned to you in 7 calendar days.
 
-Note: increasing and decreasing delegated capital doesn’t work quite normal. If you have delegated 1000 viz to someone and now you want to delegate another 400 viz, you should add 1400 viz to the delegation amount, which is the final amount. Similarly with decrease: if you want to decrease the delegated amount by 400 viz, you must specify the new delegated amount, i.e. 600 viz, not "minus 400".
+Please note: an increase or decrease in the delegated capital is not an ordinary operation. If you had previously delegated 1,000 viz to someone, and now you want to delegate another 400 viz, then you need to state 1,400 viz in the field with delegation amount, which is the final amount. Similarly with a decrease, if you want to reduce the delegated amount of capital by 400 viz, then you need to specify a new size of delegation, that is, 600 viz, not ‘minus 400’.
 
-## Viz tokens and cheques
+## Energy
 
-### How to get liquid viz tokens?
+### How do I use energy in VIZ?
 
-Sometimes you may need liquid viz tokens. For example, to add social capital to your other account, to give viz to a friend or to sell them via exchanger.
+The energy in VIZ limits the use of social capital. As you know, with rewards, the capital itself is not spent, so one may decide you can reward infinitely and very often. This is not so. To reward someone, you need to spend the *energy* available on your account. When all the energy is depleted, the account will no longer be able to process rewards, as well as perform other actions on the blockchain (they also require energy). The energy is restored over time (see below), so nothing terrible happens when it drops to zero - you just have to give it some time to recover.
 
-If you have enough social capital, you can withdraw (take away, convert) the right amount of tokens from it. The Viz blockchain is purposely built in such a way that it’s impossible to get liquid tokens out of the capital instantly: the withdrawal takes place in parts - no more than 1/28 of the capital per day. Therefore, a small amount can be withdrawn in 1-2 days, while it takes weeks to "cash out" a substantial amount of capital.
+The more energy you spend when rewarding, the larger the reward amount will be. The percentage of energy used for a reward can usually be set in the application you use, but in some cases, the application itself determines what the percentage should be. Therefore, it is better to study this issue in advance in the application, so as not to spend too much energy. When rewarding via [Personal Account](https://my.viz.plus), you choose the percentage of the reward yourself.
 
-A quicker and more obvious way is to buy tokens from exchange, online shops, stocks or from private seller with other VIZ participants. The list of relevant venues varies, so, it’s better to check the locations and terms of transactions on VIZ information resources.
+There is no need to constantly keep the energy of the account at 100%. It is not the total energy reserve that is important for the size of the reward, but the percentage one spends when rewarding. If one rewards with 5%, then the reward will be exactly the same with 10% of the total energy supply, and with 45%, and with 100%. Active VIZ participants often maintain an energy reserve of 10-20%, spending 1-2% of energy on each reward.
 
-### How to transfer viz tokens from one account to another?
+### How is energy restored?
 
-In any wallet or personal account app in VIZ, you will surely find a section for transferring tokens. All you need is the name of the recipient account and your private active key. If you want or need to, you can write a message, comment or service data in the transfer. The recipient will see the transfer information almost immediately, and in about a minute the transaction will be finally stored in the blockchain.
+Energy is gradually restored by 20 percentage points per day. Thus, if your account has 28% energy left and you do not use it anymore, then the energy will rise to 28.83% in an hour, to 38% in 12 hours, to 48% in a day, to 68% in two days, etc. But the energy cannot rise above 100%.
 
-### How to use cheques?
+### How is the minimum possible reward determined?
 
-Cheques allow you to transfer liquid viz tokens **outside the blockchain**. You create a cheque with your liquid tokens in the app (one or another wallet or My Account [my.viz.plus](https://my.viz.plus)) and save the public part and the secret part. Then you pass the secret part to another person, who cashes it in the same app in his account, by entering the secret part into the corresponding field.
+You already know that the amount of the reward in VIZ depends on the capital of the rewarding account and the energy spent on the reward. Sometimes, it turns out that a VIZ participant had rewarded someone by doing everything right, but the reward was not sent. The fact is that VIZ has restrictions set by the delegates on the minimum size of the rewarding capital. They are there to protect the blockchain from spam with a huge number of microscopic rewards: such a stream of meaningless rewards can complicate the work of common users and congest the blockchain nodes.
 
-When you create a cheque, the tokens are withdrawn from your "account" to the cheque, so you can't spend them. But if the cheque isn’t used, you can "cash" it back into your account.
+At the moment, the minimum parameters of the reward are: *capital 5 viz at 100% energy*. It is easy to calculate that with a capital of 100 viz, it is necessary to use at least 5% of the energy for the reward, with a capital of 500 viz, 1% is enough, and with a capital of 1000 viz - 0.5%. If you spend less, then the energy will be wasted.
+Over time, delegates can change the size of the minimum rewarding capital, for example, with a significant increase in the value of the viz token.
 
-The second way to use the cheque is to deposit it when you create your account. In this case, all of the tokens from the check go into the social capital of the new account.
+## Viz tokens and checks
 
-Regardless of the way of use, the assets from the cheque are withdrawn only as a whole, i.e. the cheque can be cashed only once in full. There are no commissions on the creation and use of cheques.
+### How do I get liquid viz tokens?
 
-## Delegates & DAO Fund
+Sometimes, you may need liquid viz tokens. For example, to replenish the social capital of your other account, give viz to a friend or sell them through an exchanger.
 
-### How to elect delegates to DAO Fund?
+If you have enough social capital, you can withdraw (take, convert) the required number of tokens from it. The Viz blockchain is built so that it is impossible to instantly get liquid tokens from the capital. The withdrawal takes place in parts - no more than 1/28 of the capital per day. Therefore, a small amount can be received in 1-2 days, and it will take weeks to ‘cash out’ a significant part of the capital.
 
-Unlike elections to national parliaments, the election of delegates to the DAO VIZ is a continuous process. You have the right and opportunity to vote for delegates (one or more) or to withdraw your vote at any time.
+A faster and more obvious way to buy tokens is to resort to an exchanger, an online store, on the exchange or ‘directly’ from other VIZ participants. The list of relevant sites is changing all the time, so it is better to clarify the places and terms of transactions based on official VIZ informational resources.
 
-Voting is a blockchain transaction like any other and is done through an app. For example, in My Account [my.viz.plus](https://my.viz.plus) on a special page you should tick the relevant account and your choice will be regarded.
+### How do I transfer viz tokens from one account to another?
 
-When voting, the power of your vote, equal to your social capital, is equally divided among all the delegates you voted for. Therefore, it’s worth deciding in advance whether to give all your votes to one delegate to help him move up the list, or to divide them among several delegates.
+In any application like a ‘wallet’ or ‘personal account’ in VIZ, you will surely find a section for transferring tokens. You will only need the name of the recipient account and your private active key. If desired or necessary, you can write a message, comment or service data with the transfer. The recipient sees the transfer information almost immediately, then about a minute later, the transaction is finally saved in the blockchain.
 
-### How to vote for applications for DAO Fund?
+### How do I use checks?
 
-VIZ members who apply for a payment from the DAO Fund usually try to get as many social capital holders to vote for it as possible. Therefore, if you follow VIZ news, you will probably know that someone has applied.
+Checks allow you to transfer liquid viz tokens **outside the blockchain**. You create a check at the expense of your liquid tokens in the application (one or another wallet or [Personal Account](https://my.viz.plus)) and save the public and secret parts. Then, in any way - either via the internet or on paper - you transfer the secret part to another person who ‘cashes’ it into their account in the same application by entering the secret part received from you into the appropriate field.
 
-If you wish to support or reject an application, you can do it in the relevant section of  My Account [my.viz.plus](https://my.viz.plus) or in other apps that provide such service.
+When creating a checks, tokens are withdrawn from your ‘account’ to the check, so you will not be able to spend them. But if the check is not used, it can be ‘cashed’ back to your account.
 
-When voting, you choose the approval percentage of the application: the higher the average percentage received by the application, the more vizes from the Fund the applicant will receive. A vote of 100% means that you agree to give the applicant the amount they are requesting. A lower percentage will result in a reduced amount.
+The second way to use the check is to deposit funds when creating an account. In this case, all tokens from the check are transferred to the social capital of the new account.
 
-It is also possible to set a negative percentage (up to -100%): this means that you don’t want to allocate assets from the Fund to the applicant.
+Regardless of the method of use, funds are withdrawn from the check only in whole, i.e. the check can be cashed only once in full. There are no commissions when creating and using checks.
 
-You can change your decision at any time up to the end of voting. Please note: the voting on the application takes into account the effective social capital of your account at the end of the voting period. This means that if you voted, and then delegated some of your capital to another account or withdrew some of your capital into liquid tokens, only the remaining capital will be taken into account in the end result. Conversely, if after voting but before the vote is counted, your social capital has increased, your vote will be weighted.
+## Delegates and the DAO Fund
+
+### How do I elect DAO delegates?
+
+Unlike the elections to the parliaments of countries, the elections of the delegates of VIZ DAO are conducted non-stop. You have the right and the opportunity to vote for delegates (one or more) or withdraw your vote at any time.
+
+Voting is the same transaction in the blockchain as any other is, as it is carried out in the application. For example, in [Personal Account](https://my.viz.plus) on a special page, it is enough to put a check mark next to the corresponding account and your choice will be taken into account.
+
+When voting, the power of your vote, equal to your social capital, is equally distributed among all the delegates you voted for. Therefore, it is worth deciding in advance whether to give all your votes for one delegate, to help them rise higher in the list or divide them among several ones.
+
+### How do I vote for applications to the DAO Fund?
+
+VIZ participants who have applied for a payment from the DAO Fund usually try to attract as many social capital holders as possible to vote for. Therefore, if you follow VIZ news updates, you will surely find out that someone has applied.
+
+If you want to support or reject the application, you can do this in the corresponding section of the [Personal Account](https://my.viz.plus) or in other applications that provide such a service.
+
+When voting, you choose the percentage of approval for the application: the higher the average percentage received by the application, the more viz the applicant receives from the Fund. Voting for 100% means you agree to allocate to the applicant the amount that they request. A smaller percentage will lead to a reduction in the amount.
+
+You can also set a negative percentage (up to -100%): this means you do not want to take it from the Fund to the applicant.
+
+You can change your decision at any time until the end of the voting. Please note: when voting on an application, the effective social capital of your account is taken into account at the end of the review period. This means that if you voted and then delegated part of the capital to another account or transferred part of the capital to liquid tokens, then in the end, only the remaining part will be considered. And, vice versa, if your social capital has increased after the vote, but before the counting of votes, your vote will become more significant.
 
 ## Best Practices
 
