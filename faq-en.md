@@ -137,7 +137,7 @@ If you prefer the name of the new account to be chosen by the recipient of the g
 
 The easiest way to change the keys is to ‘reset’ them. Just refuse to use all the old keys with one click of a button in the application and get a set of new ones. To do this, you need to enter the master key.
 
-If you want to change only one key, go to the Accounts - Account Access section in [my.viz.plus](https://my.viz.plus), find the access you need, generate a new one (there is a special button for this), add it, write it down in several places, and then delete the old key. You will also need to enter the master key to perform this operation.
+If you want to change only one key, go to the Settings - Access section in [my.viz.plus](https://my.viz.plus/settings/access/), find the access you need, generate a new one (there is a special button for this), add it, write it down in several places, and then delete the old key. You will also need to enter the master key to perform this operation.
 
 ### How do I recover lost keys?
 
@@ -149,7 +149,7 @@ If **less significant keys are lost**, then reset them as described above and sa
 
 ### How do I buy or sell a custom account?
 
-The VIZ has a unique feature built directly into the blockchain. With the help of the corresponding application, you can put up any of your account or subaccount for sale or buy the one you like in a couple of clicks. Payment, of course, is done using viz. There is a corresponding section on the [my.viz.plus](https://my.viz.plus) website.
+The VIZ has a unique feature built directly into the blockchain. With the help of the corresponding application, you can put up any of your account or subaccount for sale or buy the one you like in a couple of clicks. Payment, of course, is done using viz. There is a corresponding section on the [my.viz.plus](https://my.viz.plus/account/) website.
 
 Putting up an account for sale costs a small amount in viz. This is done to protect the blockchain from spam attacks. In addition, it will be possible to buy it only 7 days after it is put up for sale to prevent attackers from quickly selling the stolen account.
 
