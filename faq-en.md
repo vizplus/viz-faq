@@ -6,7 +6,7 @@ The given document is addressed mainly to beginners. It answers the questions th
 
 ### Content:
 
-[General issues](#general-questions)
+[General issues](#general-issues)
 
 - How is it correct to write the name of the application - VIZ or viz?
 - How do I use social capital?
@@ -41,7 +41,7 @@ The given document is addressed mainly to beginners. It answers the questions th
 - How do I transfer viz tokens from one account to another?
 - How do I use checks?
 
-[Delegates and the DAO Fund](#delegates-dao-fund)
+[Delegates and the DAO Fund](#delegates-and-the-dao-fund)
 
 - How do I elect DAO delegates?
 - How do I vote for applications to the DAO Fund?
