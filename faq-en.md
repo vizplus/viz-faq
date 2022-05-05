@@ -35,7 +35,7 @@ The given document is addressed mainly to beginners. It answers the questions th
 - How is energy restored?
 - How is the minimum possible reward determined?
 
-[Viz tokens and cheques](#viz-tokens-and-cheques)
+[Viz tokens and checks](#viz-tokens-and-checks)
 
 - How do I get liquid viz tokens?
 - How do I transfer viz tokens from one account to another?
